@@ -146,7 +146,7 @@ Os resultados são exibidos diretamente no notebook em forma de **tabela consoli
 
 ## 6. Organização do Repositório
 
-- `LTN_Spatial_Assignment_OneFile.ipynb`  
+- `LTN_Tutorial.ipynb`  
   Notebook principal contendo:
   - Geração dos datasets
   - Definição dos predicados
