@@ -1,5 +1,10 @@
 # Trabalho Final – Raciocínio Espacial Neuro-Simbólico com LTNtorch
 
+# Equipe:
+# Kaio Cavalcante de Carvalho 22351230
+# Luis Henrique de Carvalho Ribeiro 22352930
+# Jorge harrison de Oliveira Pereira Junior 22551159
+
 Este repositório contém a implementação do **Trabalho Final da disciplina Fundamentos de Inteligência Artificial (ICC260)**, cujo objetivo é desenvolver um agente **Neuro-Simbólico (NeSy)** utilizando **Logic Tensor Networks (LTN)** para aprendizado e raciocínio espacial em um ambiente 2D inspirado no dataset **CLEVR**.
 
 O projeto combina aprendizado neural supervisionado com regras lógicas fuzzy, permitindo avaliar não apenas predição, mas também **satisfatibilidade lógica** de fórmulas simbólicas.
